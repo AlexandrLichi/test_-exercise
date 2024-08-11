@@ -1,0 +1,11 @@
+{
+  "name": "test/test",
+  "require": {
+    
+    "imy/core": "dev-main"
+  },
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/feastker/imy-core.git"
+  }]
+}
